@@ -9,10 +9,14 @@ build, test, and deployment pipeline.
  container
  
  Below are the list of components in Github actions
+ 
  Events - specific activity that triggers workflow run
+ 
  Jobs - set of steps
+ 
  Actions  - To perform complex frequently repeated tasks.We can use Github managed actions available in marketplace or 
  custom actions
+ 
  Runners - server that runs workflows
  
 ## Comparing with Jenkins 
