@@ -1,6 +1,20 @@
 # GitHub-Actions
-Repository to work on GitHub Actions
+# Overview
+ GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your 
+build, test, and deployment pipeline.
 
+## Components of Github-Actions
+ Github-Actions workflows can be triggered based on events in repository or PR requests.
+ Workflows contains one or more jobs and each job will have steps that run inside a virtual machine runner or inside a 
+ container
+ 
+ Below are the list of components in Github actions
+ Events - specific activity that triggers workflow run
+ Jobs - set of steps
+ Actions  - To perform complex frequently repeated tasks.We can use Github managed actions available in marketplace or 
+ custom actions
+ Runners - server that runs workflows
+ 
 ## Comparing with Jenkins 
 
 ### Advantages of GitHub Actions over Jenkins
